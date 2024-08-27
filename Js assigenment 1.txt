@@ -1,0 +1,85 @@
+Question 1.What are the different data types present in javascript?
+ANS-There are two data type in javascripct.
+1-premative data type
+2-non-premative
+Premative data type
+
+string.
+number.
+boolean.
+bigint.
+symbol.
+null.
+undefined
+
+Non-Preamative data type
+Array
+Function
+
+Question 2.What are the JavaScript Engines?
+Ans.We used for js engine  for run the js code
+It is converting into machine code that the computer's processor can understand.
+ALL the browsers are having their own js engines to run js code.
+
+Question 3.ECMA in JS?
+Ans ECMA is European Computer Manufacturers Association.
+which is an organization that standardizes information and communication systems.
+In the context of JavaScript
+
+Versions
+
+ECMAScript has evolved over the years with various versions.
+Each new version introduces new features, improvements, 
+and sometimes deprecates old ones. Major versions include:
+
+ES5 (ECMAScript 5): Published in 2009, 
+it introduced many features such as strict mode, 
+JSON support, and improved array methods.
+
+ES6 (ECMAScript 2015): A major update, 
+also known as ECMAScript 2015,
+introduced significant features like classes, 
+modules, arrow functions, template literals, 
+and promises.
+
+ES7 (ECMAScript 2016): Introduced features like Array.
+prototype.includes and the exponentiation operator (**).
+
+ES8 (ECMAScript 2017): Added features like async/await,
+object entries and values, and string padding.
+
+ES9 (ECMAScript 2018): Introduced features such as asynchronous iteration and rest/spread properties.
+
+ES10 (ECMAScript 2019): Included features like flat and flatMap methods on arrays, and Object.fromEntries.
+
+ES11 (ECMAScript 2020): Added features like optional chaining, nullish coalescing operator, and BigInt.
+
+ES12 (ECMAScript 2021): Introduced features such as logical assignment operators and the WeakRef object.
+
+ES13 (ECMAScript 2022): Added features like class fields and methods, and top-level await.
+
+Question-4) What is JavaScript?
+Ans. Javascript is a scripting language that enables you to create dynamically updating content,
+control multimedia, animate images, and pretty much everything else.
+Histrory of Js it developed  Brendan Eich, a Netscape Communications Corporation developer,
+created JavaScript in just 10 days. Initially called "Mocha,"
+it was later renamed to JavaScript to leverage the popularity of Sun Microsystems' Java platform
+
+Question 5.Why We use JavaScript?
+Ans Js use for some reasons that it is ability to create dynamic and interactive experiences on the web.
+JavaScript is used because it enhances the functionality,
+ interactivity, and responsiveness of web applications. Its ability to manipulate the DOM,
+ handle asynchronous operations, 
+and integrate with various libraries and frameworks makes it an essential tool for modern web development
+
+.Dynamic Content
+.Client-Side Scripting
+.Rich User Interfaces
+.Asynchronous Programming
+.Cross-Platform Development
+.Extensive Ecosystem
+.Community and Support
+.Cross-Platform Applications
+.Integration with HTML and CSS
+.Real-Time Communication
+ 
